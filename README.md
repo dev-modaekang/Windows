@@ -1,2 +1,2 @@
 # Windows
-PowerShell | Script
+PowerShell | Script | User Manual
